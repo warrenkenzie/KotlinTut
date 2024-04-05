@@ -6,4 +6,4 @@ the user is apply.
 
 
 ## This project is based in this youtube video
-[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/jh1GXnFw7rM&t=3846s/0.jpg)](https://www.youtube.com/watch?v=jh1GXnFw7rM&t=3846s)
+[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/jh1GXnFw7rM/0.jpg)](https://www.youtube.com/watch?v=jh1GXnFw7rM)

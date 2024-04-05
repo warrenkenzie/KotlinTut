@@ -1,0 +1,29 @@
+<resources>
+    <string name="app_name">KotlinTut</string>
+    <!--  activity_main  -->
+    <string name="intro_img_contentDescription"></string>
+    <string name="intro_title">Step into your <font color="#6033ba">style\nA world of shoes</font></string>
+    <string name="intro_description">Browse the latest styles from the top brands\n
+                                    Get personalized recommendations\n
+                                    Enjoy fast free shipping.</string>
+    <string name="intro_button">Let\'\s Get Started!</string>
+    <string name="intro_signIn">Already have an account? <font color="#6033ba">Sign in</font></string>
+
+    <!--  activity_home  -->
+    <string name="home_name">Jammie</string>
+    <string name="home_searchIcon">searchIcon</string>
+    <string name="home_notificationIcon">notificationIcon</string>
+    <string name="home_welcomeBack">Welcome Back</string>
+    <string name="home_officialBrand">Official Brand</string>
+    <string name="home_recommendation">Recommendations</string>
+    <string name="home_seeAll">see all</string>
+
+    <!--  menu  -->
+    <string name="menu_Explorer">Explorer</string>
+    <string name="menu_Cart">Cart</string>
+    <string name="menu_Favourite">Explorer</string>
+    <string name="menu_Checklist">Checklist</string>
+    <string name="menu_Profile">Profile</string>
+
+
+</resources>

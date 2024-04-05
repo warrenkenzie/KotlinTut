@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "258016459069",
+    "firebase_url": "https://kotlintut-7ad25-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "kotlintut-7ad25",
+    "storage_bucket": "kotlintut-7ad25.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:258016459069:android:c8eeeeb3ed79abb557ad54",
+        "android_client_info": {
+          "package_name": "com.example.kotlintut"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCsYPpmlfnm0NoDz6vtYO8luWkRhJqmWCo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
